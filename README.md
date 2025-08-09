@@ -34,3 +34,6 @@ python3 github-activity.py torvalds
 - Python 3.6+
 - Internet connection
 
+## Project URL
+
+[Project URL](https://roadmap.sh/projects/github-user-activity)
